@@ -7,7 +7,7 @@ import Foundation
 // ---------------------------------------------------------
 // MARK: - THEME CONSTANTS (CYBERPUNK)
 // ---------------------------------------------------------
-
+//New Version again
 struct CyberTheme {
     static let bgDark = Color(red: 0.05, green: 0.05, blue: 0.08)
     static let cardBg = Color(red: 0.1, green: 0.1, blue: 0.12)
